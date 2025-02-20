@@ -1,0 +1,9 @@
+Overall the notebooks were helpful and contained a lot of information, just a few points of criticism:
+
+Python crash course notebook imports TensorFlow while everything else uses PyTorch
+There were quite a few runtime errors in the NumPy crash course file, comments note correctly formatted as comments, variables called before declared, etc (there are also two of these files, but with different names)
+Some of the PyTorch notebooks are assuming you are running on a CUDA device, maybe it's not worth putting them with all the files just yet
+The data_loading_preprocessing_pytorch notebook is empty
+the matplotlib notebook has an attribute error in cell 48
+Images and CSV files are missing
+There are random errors a many notebooks that are simple typos
